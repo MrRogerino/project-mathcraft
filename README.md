@@ -62,7 +62,7 @@ An app that combines fundamental math concepts with the engaging elements of mob
      ![Boss Level Death](/public/readme_images/boss_death.gif)
 
     
-##Building
+## Building
   * After players have gathered the requiste resources, they can head back to town and enter building mode. Building is separated into two different actions:
     * Building: Players can place buildings on any open plot of land in their town, as long as they meet the structure's resource cost.
     
