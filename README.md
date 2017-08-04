@@ -42,7 +42,7 @@ An app that combines fundamental math concepts with the engaging elements of mob
   * [Harvesting](#harvesting)
   * [Building](#building)
 
-##Harvesting
+## Harvesting
   * In order to generate resources to build their town, players must play various levels- each level asks different types of math questions designed to hone the repititions needed to reinforce a strong math foundation.
   * As they level up, players gain access to levels with more difficult questions and more advanced mathematical and logical concepts.
 
